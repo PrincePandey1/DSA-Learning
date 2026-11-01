@@ -1,0 +1,14 @@
+Pattern
+========
+1. Array/LL(Detect Cycle)
+2. Sort/Sorted
+3. Remove Duplicates/Rearrange/Merge
+4. Pair/Triplets/Quadruples
+5. Do not use extra space
+
+
+Two Sum
+-------
+Asking No --> Use two Pointer
+Asking Index and array is Sorted ---> Use Two pointer
+Asking Index array is not sorted --> No Two pointer

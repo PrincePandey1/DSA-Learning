@@ -1,0 +1,7 @@
+What is comparator?
+- It's a functional interface which is used to order the object of same time
+- It contains compair(object1 ,object2) function to sort the object
+
+For ascending : object1 - object2 > 1 (+ve)
+For descending : object2 - object1 < 1 (-ve)
+ 
